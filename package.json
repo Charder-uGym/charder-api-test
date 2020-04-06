@@ -1,0 +1,21 @@
+{
+  "name": "node-ws-test",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku-examples/node-ws-test.git"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.4.5",
+    "firebase-admin": "^8.9.0",
+    "request": "^2.88.0",
+    "unirest": "^0.6.0"
+  },
+  "engines": {
+    "node": "12.14.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
