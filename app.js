@@ -28,6 +28,7 @@ var 量測要求;
 var 量測要求歷史;
 var 健身房列表;
 
+console.log("Env:", process.env.useLocalAPI)
 
 console.log("Version:", version);
 
